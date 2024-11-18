@@ -1,13 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Chaitanya Chilla # your name (or website title) here
+logo: "/images/chaitanya.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Senior Member Of Technical Staff at Salesforce 
   <br><br>
-  Second description 
+  Hyderabad, Telangana, India
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/chaitanyachilla/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-MGE3EXJMP2 # your Google Analytics tracking ID here
